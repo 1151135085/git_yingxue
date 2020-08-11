@@ -8,6 +8,9 @@ class GitYingxueApplicationTests {
 
     @Test
     void contextLoads() {
+    
+        int a=10;
+        int b=20;
     }
 
 }
