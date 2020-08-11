@@ -13,4 +13,9 @@ class GitYingxueApplicationTests {
         int b=20;
     }
 
+    @Test
+    void testGitHub(){
+        String s="study GitHub";
+    }
+
 }
